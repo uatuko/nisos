@@ -1,0 +1,11 @@
+# eclipse
+.project
+.cproject
+.settings/
+
+# misc
+*.swp
+
+# project specific
+/build
+
