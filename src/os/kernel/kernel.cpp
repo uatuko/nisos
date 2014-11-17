@@ -168,6 +168,9 @@ namespace kernel {
 		// enable interrupts
 		__enable_irq();
 
+		// drop privileges
+		__set_CONTROL( 0x01 );
+
 		// system idle loop
 		while ( true );
 
