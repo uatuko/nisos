@@ -22,3 +22,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 for more details.
 
 
+Refer to http://www.thewireframecommunity.com/writing-a-basic-multitasking-os-for-arm-cortex-m3-processor
+for a discussion of the concepts used in developing Nisos.
+
