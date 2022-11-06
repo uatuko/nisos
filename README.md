@@ -1,11 +1,7 @@
 Nisos
 =====
 
-A basic multitasking Operating System for ARM Cortex-M3 processors
-
-Refer to http://www.thewireframecommunity.com/writing-a-basic-multitasking-os-for-arm-cortex-m3-processor
-for a discussion of the concepts used in developing Nisos.
-
+A basic multitasking Operating System for ARM Cortex-M3 processors.
 
 Copyright and License (ISC)
 ---------------------------
